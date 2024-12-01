@@ -9,21 +9,25 @@ This project leverages machine learning to predict heart disease based on variou
 - Model performance evaluation
 
 ## How to Use
-1. Clone the repository:
-   git clone <repository_url>
 
-2. Google Colab Users:
+1. Google Colab Users:
+   
    Directly upload the .ipynb file to Google Colab.
+   
    Most libraries like NumPy, Pandas, and Scikit-learn are pre-installed, so no additional installation is required.
 
-3. Other Environments:
+2. Other Environments:
    Install the required libraries:
+   
    pip install numpy
+   
    pip install pandas
+   
    pip install scikit-learn
 
 
-5. Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:
+
    jupyter notebook 1_Heart_disease_prediction.ipynb
    
 ## Technologies
@@ -31,5 +35,30 @@ This project leverages machine learning to predict heart disease based on variou
   - NumPy, Pandas
   - Scikit-learn
   - Logistic Regression Model
+
+    ## How to Use
+
+1. **Google Colab Users**:
+   - Directly upload the `.ipynb` file to Google Colab.
+   - Most libraries like NumPy, Pandas, and Scikit-learn are pre-installed, so no additional installation is required.
+
+2. **Other Environments**:
+   - Install the required libraries:
+     ```bash
+     pip install numpy
+     pip install pandas
+     pip install scikit-learn
+     ```
+   - Run the Jupyter Notebook:
+     ```bash
+     jupyter notebook 1_Heart_disease_prediction.ipynb
+     ```
+
+## Technologies
+- Python
+- NumPy, Pandas
+- Scikit-learn
+- Logistic Regression Model
+
 
 
