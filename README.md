@@ -9,10 +9,11 @@ This repository contains multiple machine learning projects. Each project is org
    ```python
    !git clone https://github.com/Masterpush07/ML-PROJECTS.git
 
-2. **Navigate to a specific project folder in Colab**:   
+2. **Navigate to a specific project folder in Colab**:
+   ```python  
    %cd ML-PROJECTS/Project1
 
-3. **Run the notebook**:
+4. **Run the notebook**:
 
     Open the .ipynb file from the folder.
     Execute cells within Colab.
@@ -20,21 +21,26 @@ This repository contains multiple machine learning projects. Each project is org
 
  ## VS Code
 1. **Clone the repository in your local environment**:
+   ```python
    git clone https://github.com/Masterpush07/ML-PROJECTS.git
 
-2. **Navigate to the project folder**:
+3. **Navigate to the project folder**:
+   ```python
    cd ML-PROJECTS/Project1
    
-3. **Open the folder in VS Code**:
+5. **Open the folder in VS Code**:
+   ```python
    code .
 
-4. **jupyter notebook <notebook_name>.ipynb**
+7. **jupyter notebook <notebook_name>.ipynb**
+   ```python
     eg:- jupyter notebook heart_disease_prediction.ipynb
 
   ## Projects
   
-    Project 1: Heart Disease Prediction
-    Predict heart disease using machine learning algorithms.
-    (More projects will be added as they are completed.)
+   Project 1: Heart Disease Prediction
+   Predict heart disease using machine learning algorithms.
+   
+   (More projects will be added as they are completed.)
 
 
