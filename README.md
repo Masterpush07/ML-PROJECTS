@@ -3,8 +3,9 @@
 This repository contains multiple machine learning projects. Each project is organized into its own folder (e.g., `Project 1`, `Project 2`, etc.).
 
 ---
+### Set Up ->
 
-## Google Colab
+## Google Colab 
 1. **Clone the repository directly in Colab**:
    ```python
    !git clone https://github.com/Masterpush07/ML-PROJECTS.git
@@ -38,8 +39,7 @@ This repository contains multiple machine learning projects. Each project is org
 
   ## Projects
   
-   Project 1: Heart Disease Prediction
-   Predict heart disease using machine learning algorithms.
+   Project 1: Heart Disease Prediction(Predict heart disease using machine learning algorithms.)
    
    (More projects will be added as they are completed.)
 
