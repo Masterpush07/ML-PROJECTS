@@ -3,7 +3,7 @@
 This repository contains multiple machine learning projects. Each project is organized into its own folder (e.g., `Project 1`, `Project 2`, etc.).
 
 ---
-### Set Up ->
+# Set Up ->
 
 ## Google Colab 
 1. **Clone the repository directly in Colab**:
