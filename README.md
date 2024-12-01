@@ -1,31 +1,40 @@
 # ML Projects
 
--> This repository contains multiple machine learning projects. Each project is organized into its own folder (e.g., `Project 1`, `Project 2`, etc.).
+This repository contains multiple machine learning projects. Each project is organized into its own folder (e.g., `Project 1`, `Project 2`, etc.).
 
-Google Colab
-Clone the repository directly in Colab:
-python
-Copy code
-!git clone https://github.com/Masterpush07/ML-PROJECTS.git
-Navigate to a specific project folder in Colab:
-python
-Copy code
-%cd ML-PROJECTS/Project1
-Run the notebook by uploading it or accessing it within the folder.
-VS Code
-Clone the repository in your local environment:
-bash
-Copy code
-git clone https://github.com/Masterpush07/ML-PROJECTS.git
-Navigate to the project folder:
-bash
-Copy code
-cd ML-PROJECTS/Project1
-Open the folder in VS Code:
-bash
-Copy code
-code .
-Run the notebook using Jupyter:
-bash
-Copy code
-jupyter notebook <notebook_name>.ipynb
+---
+
+## Google Colab
+1. **Clone the repository directly in Colab**:
+   ```python
+   !git clone https://github.com/Masterpush07/ML-PROJECTS.git
+
+2. **Navigate to a specific project folder in Colab**:   
+   %cd ML-PROJECTS/Project1
+
+3. **Run the notebook**:
+
+    Open the .ipynb file from the folder.
+    Execute cells within Colab.
+
+
+ ## VS Code
+1. **Clone the repository in your local environment**:
+   git clone https://github.com/Masterpush07/ML-PROJECTS.git
+
+2. **Navigate to the project folder**:
+   cd ML-PROJECTS/Project1
+   
+3. **Open the folder in VS Code**:
+   code .
+
+4. **jupyter notebook <notebook_name>.ipynb**
+    eg:- jupyter notebook heart_disease_prediction.ipynb
+
+  ## Projects
+  
+    Project 1: Heart Disease Prediction
+    Predict heart disease using machine learning algorithms.
+    (More projects will be added as they are completed.)
+
+
