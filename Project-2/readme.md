@@ -1,6 +1,6 @@
 # Rock vs Mine Prediction
 
-This project utilizes machine learning to classify sonar signals as either rocks or mines. The notebook demonstrates data preprocessing, model training, and evaluation using sonar data.
+This project leverages machine learning to classify sonar signals as either rocks or mines. The notebook demonstrates data preprocessing, model training, and evaluation using sonar data.
 
 ## Features
 - Data cleaning and preprocessing
@@ -11,12 +11,7 @@ This project utilizes machine learning to classify sonar signals as either rocks
 ## How to Use
 
 1. **Google Colab Users**:
-   - Clone the repository and navigate to Project-2:
-     ```bash
-     !git clone https://github.com/Masterpush07/ML-PROJECTS.git
-     %cd ML-PROJECTS/Project-2
-     ```
-   - Open and run the `2_rock_vs_mine.ipynb` file in Colab.
+   - Directly upload the `2_rock_vs_mine.ipynb` file to Google Colab.
    - Most libraries like NumPy, Pandas, and Scikit-learn are pre-installed, so no additional installation is required.
 
 2. **Other Environments**:
@@ -33,11 +28,8 @@ This project utilizes machine learning to classify sonar signals as either rocks
 
 ## Technologies
 - Python
-- NumPy
-- Pandas
+- NumPy, Pandas
 - Scikit-learn
 
 ## License
-
 This project is licensed under the [MIT License](../LICENSE) - see the LICENSE file for details.
-
