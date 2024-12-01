@@ -32,5 +32,8 @@ This project leverages machine learning to predict heart disease based on variou
 - Scikit-learn
 - Logistic Regression Model
 
+## License
+This Project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
