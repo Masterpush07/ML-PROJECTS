@@ -39,7 +39,17 @@ This repository contains multiple machine learning projects. Each project is org
 
   ## Projects
   
-   Project 1: Heart Disease Prediction(Predict heart disease using machine learning algorithms.)
+   Project 1: Heart Disease Prediction
+              (Predict heart disease using machine learning algorithms.)
+              
+   Project 2: Rock vs Mine Prediction
+              (Predict whether an object is a rock or a mine using sonar signal data and machine learning techniques.)
+
+   Project 3: Diabetes Prediction
+              (Predict the likelihood of diabetes in patients using clinical features and machine learning algorithms.)
+
+   Project 4: Spam Mail Prediction
+              (Classify emails as spam or legitimate (ham) using natural language processing and machine learning.)           
    
    (More projects will be added as they are completed.)
 
