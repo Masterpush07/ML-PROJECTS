@@ -62,6 +62,7 @@ The predictive model employs **Support Vector Machines (SVM)**, a robust machine
 - **Scikit-learn**
 
 ## License
+This project is licensed under the [MIT License](../LICENSE) - see the LICENSE file for details.## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Results
