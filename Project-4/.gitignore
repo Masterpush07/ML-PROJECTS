@@ -1,1 +1,33 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+*.env
+
+# Data files
+*.csv
+*.tsv
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+*.swp
+.idea/
+*.sublime-workspace
+*.sublime-project
 
